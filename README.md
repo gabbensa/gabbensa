@@ -2,13 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="Gabriel Bensamoun — Full-Stack Developer" />
 
-<a href="https://www.linkedin.com/in/gabriel-bensamoun/">
-  <img src="https://img.shields.io/badge/LinkedIn-2C2C2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:bensamoungabriel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-B35A38?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
 </div>
 
 ---
