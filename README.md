@@ -23,7 +23,7 @@
 
 Full-stack developer working across **React / Next.js / TypeScript** on the front, **Node.js, Postgres and Supabase** on the back — with a strong pull toward **LLM integrations, telephony and workflow automation**.
 
-I started in **network administration** (MCSA, military service), which is where I picked up the habit that still shapes how I build: infrastructure and security are not a later chapter. Row-Level Security, tenant isolation and auth get designed in from day one, not bolted on when something breaks.
+I started as a  **Network Administrator** (MCSA), which is where I picked up the habit that still shapes how I build: infrastructure and security are not a later chapter. Row-Level Security, tenant isolation and auth get designed in from day one, not bolted on when something breaks.
 
 Mostly self-driven. I learn fast, I ship, and I keep asking dumb questions until I actually understand the thing.
 
@@ -155,7 +155,7 @@ Smaller builds and coursework — kept public because they show the range.
 
 Building something interesting? Let's talk.
 
-**[bensamoungabriel@gmail.com](mailto:bensamoungabriel@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/gabriel-bensamoun/)**
+**[bensamoungabriel@gmail.com](mailto:bensamoungabriel@gmail.com)** 
 
 <br />
 
