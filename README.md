@@ -21,7 +21,7 @@
 ~/gabbensa $ _
 ```
 
-Full-stack developer working across **React / Next.js / TypeScript** on the front, **Node.js, Postgres and Supabase** on the back — with a strong pull toward **LLM integrations, telephony and workflow automation**.
+Full-stack developer working across **React / Next.js / TypeScript** on the front, **Node.js, Postgres and Supabase** on the back — with a strong pull toward **LLM integrations and Workflow Automation**.
 
 I started as a  **Network Administrator** (MCSA), which is where I picked up the habit that still shapes how I build: infrastructure and security are not a later chapter. Row-Level Security, tenant isolation and auth get designed in from day one, not bolted on when something breaks.
 
