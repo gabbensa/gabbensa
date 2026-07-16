@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B35A38"/>
+      <stop offset="60%" stop-color="#2C2C2C"/>
+      <stop offset="100%" stop-color="#1F1F1F"/>
+    </linearGradient>
+    <clipPath id="fcard"><rect x="0" y="0" width="900" height="120" rx="14"/></clipPath>
+    <pattern id="fscan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#F5F5F5" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#fcard)">
+    <rect width="900" height="120" fill="url(#fbg)"/>
+    <path d="M0 44 C 150 14, 300 74, 450 44 S 750 14, 900 44 L900 0 L0 0 Z" fill="#1F1F1F" fill-opacity="0.6">
+      <animate attributeName="d"
+        values="M0 44 C 150 14, 300 74, 450 44 S 750 14, 900 44 L900 0 L0 0 Z;
+                M0 44 C 150 74, 300 14, 450 44 S 750 74, 900 44 L900 0 L0 0 Z;
+                M0 44 C 150 14, 300 74, 450 44 S 750 14, 900 44 L900 0 L0 0 Z"
+        dur="8s" repeatCount="indefinite"/>
+    </path>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13" text-anchor="middle">
+      <text x="450" y="88" fill="#4FD1C5" fill-opacity="0.75" letter-spacing="2">
+        $ ./always_building.sh
+      </text>
+    </g>
+    <rect width="900" height="120" fill="url(#fscan)"/>
+  </g>
+</svg>
