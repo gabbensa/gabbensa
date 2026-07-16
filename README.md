@@ -109,14 +109,18 @@ Peer-to-peer messaging app for rescue units — communication with **no cellular
 
 <br />
 
-### ✈️ Flight Booking System
+### ✈️ [SpaceFly](https://github.com/gabbensa/SpaceFly) — Flight Booking System
 
 Full-stack booking app — search, book and manage flights.
 
-`React` `Node.js` `PostgreSQL` `GitHub Actions`
+`React` `TypeScript` `Node.js` `PostgreSQL` `GitHub Actions`
 
 - Complete front-to-back implementation
 - **CI/CD pipeline** with automated testing and deployment
+
+<a href="https://github.com/gabbensa/SpaceFly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbensa&repo=SpaceFly&hide_border=true&title_color=B35A38&icon_color=4FD1C5&text_color=8B8B8B&bg_color=00000000" alt="SpaceFly repo" />
+</a>
 
 <br />
 
@@ -138,41 +142,12 @@ Smaller builds and coursework — kept public because they show the range.
 
 <a href="https://github.com/gabbensa/VehicleAgency"><img src="https://img.shields.io/badge/VehicleAgency-Java-2C2C2C?style=flat-square&logo=openjdk&logoColor=4FD1C5" alt="VehicleAgency" /></a>
 <a href="https://github.com/gabbensa/MyHotelManagement"><img src="https://img.shields.io/badge/MyHotelManagement-C++-2C2C2C?style=flat-square&logo=cplusplus&logoColor=4FD1C5" alt="MyHotelManagement" /></a>
-<a href="https://github.com/gabbensa/SpaceFly"><img src="https://img.shields.io/badge/SpaceFly-TypeScript-2C2C2C?style=flat-square&logo=typescript&logoColor=4FD1C5" alt="SpaceFly" /></a>
 <a href="https://github.com/gabbensa/QR-Code-Generator"><img src="https://img.shields.io/badge/QR_Code_Generator-JavaScript-2C2C2C?style=flat-square&logo=javascript&logoColor=4FD1C5" alt="QR Code Generator" /></a>
 <a href="https://github.com/gabbensa/NumericalAnalysis_Hackaton"><img src="https://img.shields.io/badge/Numerical_Analysis-Hackathon-2C2C2C?style=flat-square&logo=python&logoColor=4FD1C5" alt="Numerical Analysis Hackathon" /></a>
 <a href="https://github.com/gabbensa/SimonGame"><img src="https://img.shields.io/badge/SimonGame-JavaScript-2C2C2C?style=flat-square&logo=javascript&logoColor=4FD1C5" alt="SimonGame" /></a>
 
 ---
 
-## 📊 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabbensa&bg_color=00000000&color=F5F5F5&line=B35A38&point=4FD1C5&area=true&area_color=B35A38&hide_border=true&custom_title=Contribution%20activity" alt="contribution activity" width="100%" />
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbensa&layout=compact&hide_border=true&title_color=B35A38&text_color=8B8B8B&bg_color=00000000&langs_count=8" alt="top languages" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbensa&hide_border=true&background=00000000&stroke=B35A38&ring=B35A38&fire=B35A38&currStreakLabel=B35A38&sideLabels=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B&dates=6B6B6B" alt="streak" />
-
-</div>
-
----
-
-## 🐍 Watch the snake eat my commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabbensa/gabbensa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabbensa/gabbensa/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/gabbensa/gabbensa/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
