@@ -159,26 +159,15 @@
           Gabriel Bensamoun
         </text>
 
-        <text x="450" y="160" font-size="15" font-weight="500" fill="#F5F5F5" fill-opacity="0.72" letter-spacing="2.5">
-          FULL-STACK DEVELOPER · AI INTEGRATIONS
+        <text x="450" y="160" font-size="14" font-weight="500" fill="#F5F5F5" fill-opacity="0.72" letter-spacing="2">
+          FULL-STACK DEVELOPER · AI INTEGRATIONS · NETWORKS &amp; INFRASTRUCTURE
         </text>
 
         <rect x="410" y="178" width="80" height="2" rx="1" fill="#E08A63" fill-opacity="0.8"/>
 
-        <g font-size="18" font-weight="600" fill="#FFCDB4">
-          <text x="450" y="212" opacity="1">React · Next.js · TypeScript · Node.js · Python
-            <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.21;0.25;0.96;0.98;1" dur="16s" begin="5.9s" repeatCount="indefinite"/>
-          </text>
-          <text x="450" y="212" opacity="0">From database schema to the last pixel
-            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.29;0.46;0.5;1" dur="16s" begin="5.9s" repeatCount="indefinite"/>
-          </text>
-          <text x="450" y="212" opacity="0">Secure by design, not by patch
-            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.54;0.71;0.75;1" dur="16s" begin="5.9s" repeatCount="indefinite"/>
-          </text>
-          <text x="450" y="212" opacity="0">Ship it. Then make it solid.
-            <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.79;0.96;1" dur="16s" begin="5.9s" repeatCount="indefinite"/>
-          </text>
-        </g>
+        <text x="450" y="212" font-size="18" font-weight="600" fill="#FFCDB4">
+          React · Next.js · TypeScript · Node.js · Python
+        </text>
       </g>
 
       <rect width="900" height="300" fill="url(#scan)"/>
