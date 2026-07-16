@@ -93,7 +93,7 @@ My main focus right now. A multi-tenant SaaS platform, built and architected sol
 
 <br />
 
-### 📡 Aid-Hoc — Emergency Messaging over WiFi Direct
+### 📡 [Aid-Hoc](https://github.com/gabbensa/Aid-Hoc) — Emergency Messaging over WiFi Direct
 
 Peer-to-peer messaging app for rescue units — communication with **no cellular and no internet**. Final year project, led end to end.
 
@@ -102,6 +102,10 @@ Peer-to-peer messaging app for rescue units — communication with **no cellular
 - Automatic device discovery and socket-based communication between phones
 - Real-time message sync across connected devices
 - Responsive UI built with the Android SDK
+
+<a href="https://github.com/gabbensa/Aid-Hoc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbensa&repo=Aid-Hoc&hide_border=true&title_color=B35A38&icon_color=4FD1C5&text_color=8B8B8B&bg_color=00000000" alt="Aid-Hoc repo" />
+</a>
 
 <br />
 
@@ -116,24 +120,41 @@ Full-stack booking app — search, book and manage flights.
 
 <br />
 
-### 🤖 AI vs Human Text Classifier
+### 🤖 [AI vs Human Text Classifier](https://github.com/gabbensa/AI_vs_Human)
 
 Text classification model separating AI-generated from human-written content — **99% accuracy** on real datasets.
 
 `Python` `Naive Bayes` `Support Vector Classifier`
 
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabbensa&show_icons=true&hide_border=true&title_color=B35A38&icon_color=B35A38&text_color=8B8B8B&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbensa&layout=compact&hide_border=true&title_color=B35A38&text_color=8B8B8B&bg_color=00000000&langs_count=8" alt="top languages" />
+<a href="https://github.com/gabbensa/AI_vs_Human">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabbensa&repo=AI_vs_Human&hide_border=true&title_color=B35A38&icon_color=4FD1C5&text_color=8B8B8B&bg_color=00000000" alt="AI vs Human repo" />
+</a>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabbensa&hide_border=true&background=00000000&stroke=B35A38&ring=B35A38&fire=B35A38&currStreakLabel=B35A38&sideLabels=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B&dates=6B6B6B" alt="streak" />
+### 🧪 Also on this profile
+
+Smaller builds and coursework — kept public because they show the range.
+
+<a href="https://github.com/gabbensa/VehicleAgency"><img src="https://img.shields.io/badge/VehicleAgency-Java-2C2C2C?style=flat-square&logo=openjdk&logoColor=4FD1C5" alt="VehicleAgency" /></a>
+<a href="https://github.com/gabbensa/MyHotelManagement"><img src="https://img.shields.io/badge/MyHotelManagement-C++-2C2C2C?style=flat-square&logo=cplusplus&logoColor=4FD1C5" alt="MyHotelManagement" /></a>
+<a href="https://github.com/gabbensa/SpaceFly"><img src="https://img.shields.io/badge/SpaceFly-TypeScript-2C2C2C?style=flat-square&logo=typescript&logoColor=4FD1C5" alt="SpaceFly" /></a>
+<a href="https://github.com/gabbensa/QR-Code-Generator"><img src="https://img.shields.io/badge/QR_Code_Generator-JavaScript-2C2C2C?style=flat-square&logo=javascript&logoColor=4FD1C5" alt="QR Code Generator" /></a>
+<a href="https://github.com/gabbensa/NumericalAnalysis_Hackaton"><img src="https://img.shields.io/badge/Numerical_Analysis-Hackathon-2C2C2C?style=flat-square&logo=python&logoColor=4FD1C5" alt="Numerical Analysis Hackathon" /></a>
+<a href="https://github.com/gabbensa/SimonGame"><img src="https://img.shields.io/badge/SimonGame-JavaScript-2C2C2C?style=flat-square&logo=javascript&logoColor=4FD1C5" alt="SimonGame" /></a>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabbensa&bg_color=00000000&color=F5F5F5&line=B35A38&point=4FD1C5&area=true&area_color=B35A38&hide_border=true&custom_title=Contribution%20activity" alt="contribution activity" width="100%" />
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbensa&layout=compact&hide_border=true&title_color=B35A38&text_color=8B8B8B&bg_color=00000000&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbensa&hide_border=true&background=00000000&stroke=B35A38&ring=B35A38&fire=B35A38&currStreakLabel=B35A38&sideLabels=8B8B8B&currStreakNum=8B8B8B&sideNums=8B8B8B&dates=6B6B6B" alt="streak" />
 
 </div>
 
